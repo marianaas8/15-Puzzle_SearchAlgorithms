@@ -1,5 +1,5 @@
-README FILE
-15 Puzzle Solver
+# README
+## 15 Puzzle Solver
 
 1º passo: Criar um ficheiro de texto denominado de "input.txt" que contenha duas linhas com as configurações inicial e final respetivamente como o exemplo seguinte:
 1 2 3 4 5 6 8 12 13 9 0 7 14 11 10 15

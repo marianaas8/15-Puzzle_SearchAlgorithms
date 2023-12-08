@@ -3,10 +3,10 @@
 
 1º passo: Criar um ficheiro de texto denominado de "input.txt" que contenha duas linhas com as configurações inicial e final respetivamente como o exemplo seguinte:
 
+```plaintext
 1 2 3 4 5 6 8 12 13 9 0 7 14 11 10 15
-
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0
-
+```
 2º passo: Colocar no terminal o seguinte comando "python Principal.py ESTRATÉGIA input.txt" onde no local ESTRATÉGIA você coloca o método de busca que deseja utilizar sendo as opções as seguintes:
 - BFS
 - DFS 12 (12 indica a profundidade máxima)
